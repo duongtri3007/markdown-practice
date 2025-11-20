@@ -19,10 +19,15 @@ learn some Markdown syntax.
 https://en.wikipedia.org/wiki/Football
 
 print("Barcelona 3 - 1 Real Madrid")
-print("GOAL!!!")
-
-| Player | Total Goals (2024) | Primary Club |
-| ----------- | ----------- |
-| Viktor Gyökeres | 59+ | Sporting CP |
-| Erling Haaland | 47+ | Manchester City |
-| Harry Kane | 46+ | Bayern Munich |
+```me
+{
+  "First name": "Tri",
+  "Last name": "Duong",
+  "Age": 18
+}
+```
+| Player          | Total Goals (2024) | Primary Club     |
+|-----------------|--------------------|------------------|
+| Viktor Gyökeres | 59+                | Sporting CP      |
+| Erling Haaland  | 47+                | Manchester City  |
+| Harry Kane      | 46+                | Bayern Munich    |
